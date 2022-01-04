@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Jaeheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브유저이름&&show_icons=true)
+![Jaeheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaeheon-So&&show_icons=true)
 <!--
 **Jaeheon-So/Jaeheon-So** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
