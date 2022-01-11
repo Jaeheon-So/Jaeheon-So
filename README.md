@@ -1,4 +1,6 @@
 ### Hi there 👋
+### My name is Jaeheon So
+### Nice to meet you~~
 ![Jaeheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaeheon-So&&show_icons=true)
 <!--
 **Jaeheon-So/Jaeheon-So** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
