@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋👋
 ### My name is Jaeheon So
 ### Nice to meet you😄😄😄
 ### How to reach me: sjh-98@naver.com
